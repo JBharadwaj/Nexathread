@@ -1,0 +1,9 @@
+.products {
+    display:flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+
+.product {
+    border-radius:5px;
+}
